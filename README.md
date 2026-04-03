@@ -8,15 +8,20 @@ Open to internship opportunities in ML/AI and full-stack development.
 
 ## Technical Skills
 
-**Languages** <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" height="40"/>
+**Languages** 
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" height="40"/>
 
-**ML / DL** <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="40"/>
+**ML / DL** 
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="40"/>
 
-**Web / Backend** <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,flask" height="40"/>
+**Web / Backend** 
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,flask" height="40"/>
 
-**Databases & Cloud** <img src="https://skillicons.dev/icons?i=mysql,aws,vercel" height="40"/>
+**Databases & Cloud** 
+<img src="https://skillicons.dev/icons?i=mysql,aws,vercel" height="40"/>
 
-**Tools** <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman" height="40"/>
+**Tools** 
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman" height="40"/>
 
 ---
 
@@ -43,6 +48,9 @@ Open to internship opportunities in ML/AI and full-stack development.
 ---
 
 
-## Connect: [<img src="https://skillicons.dev/icons?i=github" height="40"/>](https://github.com/taneesha-beep) [<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>](https://linkedin.com/in/taneesha-badhe-96b949236/) [<img src="https://skillicons.dev/icons?i=gmail" height="40"/>](mailto:taneeshabadhe@gmail.com)
+## Connect: 
+[<img src="https://skillicons.dev/icons?i=github" height="40"/>](https://github.com/taneesha-beep) 
+[<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>](https://linkedin.com/in/taneesha-badhe-96b949236/) 
+[<img src="https://skillicons.dev/icons?i=gmail" height="40"/>](mailto:taneeshabadhe@gmail.com)
 ---
 
