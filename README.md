@@ -22,16 +22,16 @@ Open to internship opportunities in ML/AI and full-stack development.
 
 ## Projects
 
-**[Bridge Health Monitoring with GCN](https://github.com/taneesha-beep/bridge-shm-gcn)**
+- **[Bridge Health Monitoring with GCN](https://github.com/taneesha-beep/bridge-shm-gcn)**
 
 
-**[Stock Market Predictor](https://github.com/taneesha-beep/stock-market-predictor)**
+- **[Stock Market Predictor](https://github.com/taneesha-beep/stock-market-predictor)**
 
 
-**[Real-Estate Bot](https://github.com/taneesha-beep/real-estate-bot)**
+- **[Real-Estate Bot](https://github.com/taneesha-beep/real-estate-bot)**
 
 
-**[Binance Futures Trading Bot](https://github.com/taneesha-beep/binance-trading-bot)**
+- **[Binance Futures Trading Bot](https://github.com/taneesha-beep/binance-trading-bot)**
 
 
 ---
