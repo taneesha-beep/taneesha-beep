@@ -8,25 +8,16 @@ Open to internship opportunities in ML/AI and full-stack development.
 
 ## Technical Skills
 
-**Languages**
+**Languages** <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" height="40"/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" height="40"/>
+**ML / DL** <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="40"/>
 
-**ML / DL**
+**Web / Backend** <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,flask" height="40"/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="40"/>
+**Databases & Cloud** <img src="https://skillicons.dev/icons?i=mysql,aws,vercel" height="40"/>
 
-**Web / Backend**
+**Tools** <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman" height="40"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,flask" height="40"/>
-
-**Databases & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mysql,aws,vercel" height="40"/>
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman" height="40"/>
 ---
 
 ## Projects
