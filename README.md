@@ -59,9 +59,7 @@ Open to internship opportunities in ML/AI and full-stack development.
 ---
 
 
-## Connect
-
-[![Email](https://img.shields.io/badge/taneeshabadhe@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:taneeshabadhe@gmail.com)
+## Connect [![Email](https://img.shields.io/badge/taneeshabadhe@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:taneeshabadhe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/taneesha-badhe-96b949236/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/taneesha-beep)
 
