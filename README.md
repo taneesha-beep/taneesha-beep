@@ -23,20 +23,16 @@ Open to internship opportunities in ML/AI and full-stack development.
 ## Projects
 
 **[Bridge Health Monitoring with GCN](https://github.com/taneesha-beep)**
-Modeled a steel truss bridge as a causal graph using Graph Convolutional Networks. Achieved 99.92% classification accuracy on a 50,000+ record IoT digital twin dataset. Built a Streamlit dashboard with real-time prediction and threshold-based explainability; validated at 99.28% accuracy on combined real and synthetic data.
-`Python` `PyTorch Geometric` `GCN` `1D CNN` `Streamlit` `scikit-learn`
+
 
 **[Stock Market Predictor](https://github.com/taneesha-beep/stock-market-predictor)**
-LSTM-based stock forecasting app with dual API integration (yfinance + Alpha Vantage) and automatic fallback for reliable real-time data ingestion. Deployed with CI/CD via GitHub Actions for stable multi-symbol prediction.
-`Python` `Flask` `TensorFlow` `LSTM` `GitHub Actions`
+
 
 **[Real-Estate Bot](https://github.com/taneesha-beep)**
-Full-stack chatbot with a Django REST backend and React frontend. Processes locality queries against Excel data to return NLP summaries, filtered tables, and trend charts. Modular API design with Vercel deployment.
-`Python` `Django` `DRF` `React` `Axios` `Vercel`
 
-**[Binance Futures Trading Bot](https://github.com/taneesha-beep)**
-CLI trading bot for Binance Futures Testnet supporting Market and Limit orders with full BUY/SELL functionality. Layered client-CLI architecture with structured exception handling and file-based logging across the order lifecycle.
-`Python` `Binance API` `argparse` `REST APIs`
+
+**[Binance Futures Trading Bot](https://github.com/taneesha-beep/binance-trading-bot)**
+
 
 ---
 
