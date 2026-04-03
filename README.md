@@ -8,32 +8,25 @@ Open to internship opportunities in ML/AI and full-stack development.
 
 ## Technical Skills
 
-**Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+**Languages**
 
-**ML / DL** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" height="40"/>
 
-**Web / Backend** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+**ML / DL**
 
-**Databases & Cloud** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="40"/>
 
-**Tools** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+**Web / Backend**
 
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,flask" height="40"/>
+
+**Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=mysql,aws,vercel" height="40"/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman" height="40"/>
 ---
 
 ## Projects
@@ -59,13 +52,6 @@ Open to internship opportunities in ML/AI and full-stack development.
 ---
 
 
-## Connect
-
-[<img src="https://skillicons.dev/icons?i=github" height="40"/>](https://github.com/taneesha-beep)
-[<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>](https://linkedin.com/in/taneesha-badhe-96b949236/)
-[<img src="https://skillicons.dev/icons?i=gmail" height="40"/>](mailto:taneeshabadhe@gmail.com)
+## Connect: [<img src="https://skillicons.dev/icons?i=github" height="40"/>](https://github.com/taneesha-beep) [<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>](https://linkedin.com/in/taneesha-badhe-96b949236/) [<img src="https://skillicons.dev/icons?i=gmail" height="40"/>](mailto:taneeshabadhe@gmail.com)
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taneesha-beep&show_icons=true&hide_title=true&hide_border=true&theme=default&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taneesha-beep&layout=compact&hide_border=true&theme=default&cache_seconds=1800)
