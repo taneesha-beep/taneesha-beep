@@ -1,6 +1,6 @@
 # Taneesha Badhe
 
-Computer Science undergraduate at MIT-WPU, Pune (2023–2027), focused on machine learning, deep learning, and full-stack engineering. I build systems that are production-aware — from GCN-based structural health monitoring to LSTM stock forecasters with CI/CD pipelines.
+Computer Science undergraduate at MIT-WPU, Pune (2023–2027), focused on machine learning, deep learning, and full-stack engineering. I build systems that are production-aware.
 
 Open to internship opportunities in ML/AI and full-stack development.
 
@@ -42,18 +42,10 @@ CLI trading bot for Binance Futures Testnet supporting Market and Limit orders w
 
 ## Currently
 
-- Deepening expertise in deep learning — GNNs, time-series modeling, and applied ML systems
-- Open to internship roles in ML/AI engineering and full-stack development
-
+- Deepening expertise in machine learning and full stack development.
+- Exploring Data Structures & Algorithms
 ---
 
-## Highlights
-
-- Certified in **AI Ethics** (Kaggle) — ML bias, fairness, and responsible AI systems
-- Completed **Java Essentials** (Infosys Springboard)
-- Represented Maharashtra at the **Republic Day Camp** via NSS; attended Ministry of Youth Affairs event with 200+ delegates
-
----
 
 ## Connect
 
