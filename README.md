@@ -49,7 +49,7 @@ Open to internship opportunities in ML/AI and full-stack development.
 ## Currently
 
 - Deepening expertise in machine learning and full stack development.
-- Exploring Data Structures & Algorithms
+- Exploring Data Structures & Algorithms.
 ---
 
 
