@@ -59,9 +59,9 @@ Open to internship opportunities in ML/AI and full-stack development.
 ---
 
 
-## Connect [![Email](https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white)](mailto:taneeshabadhe@gmail.com)[![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/taneesha-badhe-96b949236/) [![GitHub](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)](https://github.com/taneesha-beep)
+## Connect [![Email](https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white)](mailto:taneeshabadhe@gmail.com) [![LinkedIn](https://img.shields.io/badge/in-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/taneesha-badhe-96b949236/) [![GitHub](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)](https://github.com/taneesha-beep)
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taneesha-beep&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taneesha-beep&show_icons=true&hide_title=true&hide_border=true&theme=default&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taneesha-beep&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taneesha-beep&layout=compact&hide_border=true&theme=default&cache_seconds=1800)
