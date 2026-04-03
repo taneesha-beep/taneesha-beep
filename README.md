@@ -53,7 +53,7 @@ Open to internship opportunities in ML/AI and full-stack development.
 ---
 
 
-## Connect: 
+## Connect
 [<img src="https://skillicons.dev/icons?i=github" height="40"/>](https://github.com/taneesha-beep) 
 [<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>](https://linkedin.com/in/taneesha-badhe-96b949236/) 
 [<img src="https://skillicons.dev/icons?i=gmail" height="40"/>](mailto:taneeshabadhe@gmail.com)
