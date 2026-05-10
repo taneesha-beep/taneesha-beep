@@ -1,6 +1,6 @@
 # Taneesha Badhe
 
-Computer Science undergraduate at MIT-WPU, Pune (2023–2027), focused on machine learning, deep learning, and full-stack engineering. I build systems that are production-aware.
+CS undergrad at MIT-WPU, Pune (2023–2027), focused on machine learning, deep learning, and full-stack engineering. I build systems that are production-aware.
 
 Open to internship opportunities in ML/AI and full-stack development.
 
