@@ -32,8 +32,8 @@ Open to internship opportunities in ML/AI and full-stack development.
 
 ## Projects
 - **[Digital Second Brain](https://github.com/taneesha-beep/digital-second-brain)**
-- **[Bridge Health Monitoring with GCN](https://github.com/taneesha-beep/bridge-shm-gcn)**
-- **[Real-Estate Bot](https://github.com/taneesha-beep/real-estate-bot)**
+- **[Compiler Algorithm](https://github.com/taneesha-beep/Compiler-Algorithm)**
+- **[Binance Trading Bot](https://github.com/taneesha-beep/binance-trading-bot)**
 
 ---
 
